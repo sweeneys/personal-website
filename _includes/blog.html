@@ -1,0 +1,15 @@
+<section class="section-blog">
+    
+  <h3 id="blog">Blog</h3>
+    <div class = "directory">
+        <div class="post-list">
+            {% for post in site.posts %}
+                <h4>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </h4>
+                <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+            {% endfor %}
+        </div>
+   </div>
+</section>
+

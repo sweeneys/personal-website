@@ -1,0 +1,70 @@
+---
+layout: default
+encoding: utf-8
+---
+
+<!DOCTYPE html>
+<html class="">
+<head>
+  <meta charset="UTF-8">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ site.data.settings.seo.description }}">
+  <meta rel="author" href="{{ site.data.settings.seo.rel-author }}">
+  <meta rel="publisher" href="{{ site.data.settings.seo.rel-publisher }}">
+ <!-- Place this tag in your head or just before your close body tag. -->
+ <script src="https://apis.google.com/js/platform.js" async defer></script>
+
+  <title>{{ site.data.settings.title }}</title>
+
+  <link rel="stylesheet" href="../../../../../../assets/css/blogpost.css">
+  <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+  {% include analytics.html %}
+</head>
+
+</head>
+<body>
+
+{% include header.html %}
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+   
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  {% include sharebuttons.html %}
+
+
+  <div class="post-list">
+    <div class="list-text">
+        <p>Check out some of my other blog posts below!</p>
+    </div>
+    <ul>
+    {% for post in site.posts %}
+        <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+    {% endfor %}
+    </ul>
+  </div>
+
+</article>
+
+
+
+{% include contact.html %}
+
+{% include form.html %}
+
+
+{% include footer.html %}
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="assets/js/functions.js"></script>
+</body>
+</html>
