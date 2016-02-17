@@ -1,0 +1,20 @@
+<div class="sharebuttons">
+
+    <a href="https://twitter.com/share" class="twitter-share-button" data-via="shaun__sweeney">Tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+    <!--- Other twitter button shares https://about.twitter.com/resources/buttons#tweet-->
+    <!-- Place this tag where you want the share button to render. -->
+
+
+    <!---<a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">Facebook</a>
+    -->
+
+    <!--- a href="http://www.facebook.com/sharer.php?u=http://<?php echo get_permalink(); ?>" target="_blank"><img src="http://www.simplesharebuttons.com/images/somacro/facebook.png" alt="Facebook" /></a>
+    -->
+    <?php $site_url = "http://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>  
+
+    <a href="https://www.linkedin.com/cws/share?url=<?php echo $site_url ;>?" target="_blank"><img src="{{ site.url }}/assets/img/linkedin.png" alt="linkedin"></a>
+    <a href="https://www.facebook.com/sharer/sharer.php?u=<?php echo $site_url ;>?" target="_blank"><img src="{{ site.url }}/assets/img/facebook.png" alt="facebook"></a>
+    <div class="g-plus" data-action="share"></div>
+
+</div>

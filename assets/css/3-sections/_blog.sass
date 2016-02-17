@@ -1,0 +1,29 @@
+.directory
+  max-width: 800px
+  padding: 0 auto
+  margin: 50px auto
+  text-align: left
+  +display(flex)
+  +justify-content(space-between)
+  
+
+@media screen and (max-width: 650px)
+  .face-lockup
+    display: block
+    text-align: center
+
+    div
+      display: inline-block
+
+    [class^="icon-"]
+      margin: 10px 9%
+
+
+
+
+@media screen and (max-width: 541px)
+  .skill-lockup
+    width: 220px
+
+    .skill-unit
+      width: 220px

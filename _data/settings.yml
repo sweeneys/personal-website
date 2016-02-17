@@ -1,0 +1,103 @@
+#-------------------------------
+# General Site Settings
+
+title: Shaun Sweeney
+description: Energy Systems Engineering
+email: shaun.sweeney@ucdconnect.ie
+
+# NOTE: The Logo and Background image are defined in the all.sass document.
+
+menu:
+- {name: About Me, url: '#about-me'}
+- {name: Experience, url: '#work'}
+- {name: Blog, url: '#blog'}
+- {name: Contact, url: '#contact'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Personal profile, engineering, UCD, University College Dublin, Shaun Sweeney'
+  rel-author: 'http://www.linkedin.com/in/shaundsweeney/'
+
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+#google-analytics-ua: UA-XXXXXX-X
+
+#-------------------------------
+# About Section
+
+# NOTE: The avatar is defined in the all.sass document.
+
+blurb: >
+  **Welcome!** 
+  <br>
+  I made this site to show people some of the projects that I've worked on over the years 
+  and also so I could post some blogs. I just started the site so I still have a bit more 
+  work to do to get everything up and running.
+  
+  <p>
+  Also - I'll be graduating next year with a Masters in Energy Systems Engineering from 
+  University College Dublin (UCD), Ireland so I'm looking for opportunities for after 
+  graduation.</p>
+  
+  <p> Here's a quick list of random skills that came into my head when
+  I was building the site, I'll think of better ones...</p>
+
+skills:
+- {name: Communication, value: '8'}
+- {name: Teamwork, value: '8'}
+- {name: Project Work, value: '9'}
+- {name: Problem Solving, value: '8'}
+- {name: Programming, value: '6'}
+- {name: Leadership, value: '7'}
+- {name: Presentations, value: '9'}
+- {name: Analysis, value: '8'}
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: Smart Class Competition, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: Universitas 21 Summer School, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: Energy Needs Ireland, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: University of Melbourne, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: Ad Astra Academy, folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: All Ireland Scholarship, folder: 'proj-6', file: 'work/proj-6.html'}
+- {name: Elecsoc, folder: 'proj-7', file: 'work/proj-7.html'}
+- {name: Erasmus Student Network, folder: 'proj-8', file: 'work/proj-8.html'}
+
+
+
+
+#-------------------------------
+# Clients Section
+
+clients:
+#- {avatar: 'face-aaroni.jpg',
+#  name: 'Scott Summers',
+#  title: 'Director of Design, OnToText Ind.',
+#  quote: '<p><strong>While we all felt that Travis was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>',
+#  logo: 'logo1.png'}
+
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'linkedin', link: 'http://www.linkedin.com/in/shaundsweeney/'}
+- {icon: 'twitter', link: 'https://twitter.com/shaun__sweeney'}
+- {icon: 'facebook', link: 'https://www.facebook.com/shaunsweeney1993'}
+- {icon: 'github', link: 'https://github.com/sweeneys'}
+
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
