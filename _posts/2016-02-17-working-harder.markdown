@@ -51,7 +51,7 @@ temperature and wind speed
 with funny looking weather instruments like psychrometers. The data was later
 analysed to see how it varied with altitude/time/instrument etc.
 
-![Beentee loop]({{site.baseurl }}{{ site.url}}/assets/img/beentee_oct_15.jpg)
+![Beentee loop]({{site.baseurl }}{{ site.url}}/shaun-and-jekyll/assets/img/beentee_oct_15.jpg)
 
 **Hiking the Beentee loop in Co. Kerry while taking weather data measurements, October 2015**
 
@@ -67,7 +67,7 @@ python to figure out, presentations to prepare,
 reports to write, figures to generate, tests to study for and extra reading to do. 
 And I had some work to do for my other 4 subjects too.
 
-![Ensemble Forecasting]({{site.baseurl }}{{ site.url}}/assets/img/sd_ensemble_fcst.jpg)
+![Ensemble Forecasting]({{site.baseurl }}{{ site.url}}/shaun-and-jekyll/assets/img/sd_ensemble_fcst.jpg)
 
 **Figure that I produced for a project on ECMWF ensemble forecasting. Data is for Storm Barney
 which hit Ireland in November 2015. Darker colours show how there is increasing uncertainty
