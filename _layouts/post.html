@@ -26,7 +26,7 @@ encoding: utf-8
 </head>
 <body>
 
-{% include header.html %}
+{% include headerblog.html %}
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
    
@@ -47,7 +47,7 @@ encoding: utf-8
     <ul>
     {% for post in site.posts %}
         <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </li>
     {% endfor %}
     </ul>
@@ -62,7 +62,7 @@ encoding: utf-8
 {% include form.html %}
 
 
-{% include footer.html %}
+{% include footerblog.html %}
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="assets/js/functions.js"></script>

@@ -19,7 +19,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Personal profile, engineering, UCD, University College Dublin, Shaun Sweeney'
+  description: "I made this site to show some of the projects that I've worked on over the years and also so I could post some blogs"
   rel-author: 'http://www.linkedin.com/in/shaundsweeney/'
 
 
@@ -40,18 +40,18 @@ seo:
 
 blurb: >
   **Welcome!** 
-  <br>
-  I made this site to show people some of the projects that I've worked on over the years 
-  and also so I could post some blogs. I just started the site so I still have a bit more 
-  work to do to get everything up and running.
+  <br>  
+  I made this site to show off some of the projects that I've worked on over the years. I will  
+  also be blogging from here. Site is under construction.
   
-  <p>
-  Also - I'll be graduating next year with a Masters in Energy Systems Engineering from 
-  University College Dublin (UCD), Ireland so I'm looking for opportunities for after 
-  graduation.</p>
+  <br><br>
+
+  **Hire me:**  Graduating next year with a Masters in Energy Systems Engineering from 
+  University College Dublin (UCD) so I'm looking for opportunities.
   
-  <p> Here's a quick list of random skills that came into my head when
-  I was building the site, I'll think of better ones...</p>
+  <br><br>
+  
+  **Skills**: Check out below. Random things I thought of. Ask me to prove these!
 
 skills:
 - {name: Communication, value: '8'}

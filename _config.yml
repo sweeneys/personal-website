@@ -7,6 +7,10 @@ port: 8000
 
 include: ['_includes/work']
 exclude: ['the_design.psd']
+#baseurl: /shaun-and-jekyll
+#if decide to go down this route: https://github.com/jekyll/jekyll/issues/332
+#JS or CSS files, do it like this: {{ site.baseurl }}/path/to/css.css
+# {{ site.baseurl }}{{ post.url }}
 
 sass:
   sass_dir: assets/css
