@@ -5,10 +5,10 @@
         <div class="post-list">
             {% for post in site.posts %}
                 <h4>
-                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                <a class="post-link" href="/shaun-and-jekyll/{{ post.url }}">{{ post.title }}</a>
                 </h4>
                 <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-            {% endfor %}
+            {% endfor %} 
         </div>
    </div>
 </section>
