@@ -517,6 +517,9 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 22px;
   line-height: 1.38; }
 
+.small, h7 {
+  font-size: 18px; }
+
 .small, small {
   font-size: 10px;
   line-height: 1.2; }
@@ -970,6 +973,22 @@ footer {
   -o-justify-content: space-between;
   justify-content: space-between;
   -ms-flex-pack: justify; }
+
+.post {
+  height: 160px;
+  width: 800px;
+  padding-bottom: 20px; }
+
+.post-thumb {
+  width: 200px;
+  height: 100%;
+  float: left; }
+
+.post-info {
+  width: 550px;
+  height: 100%;
+  float: left;
+  padding-left: 10px; }
 
 @media screen and (max-width: 650px) {
   .face-lockup {

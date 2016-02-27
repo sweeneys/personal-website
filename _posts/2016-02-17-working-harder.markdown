@@ -3,12 +3,14 @@ layout: post
 title:  "Working harder, learning more and getting worse grades"
 categories: jekyll update
 date:   2016-02-17
+folder: /blog-1
+excerpt_separator: <!--more-->
 ---
 
 In my first year at university (UCD) I was awarded an academic scholarship that pays my 
 fees, gives me guaranteed
 half price on-campus accommodation and means that I can claim to be part of a 
-community of only around
+community of only around <!--more-->
 150 students from all of UCD that have shown 'exceptional' (!) academic abilities.
 The double-edged sword is that in order to retain the scholarship I have to keep my 
 GPA > 3.68 for
@@ -51,7 +53,7 @@ temperature and wind speed
 with funny looking weather instruments like psychrometers. The data was later
 analysed to see how it varied with altitude/time/instrument etc.
 
-![Beentee loop]({{ site.url}}/shaun-and-jekyll/assets/img/beentee_oct_15.jpg)
+![Beentee loop]({{ site.url}}/shaun-and-jekyll/assets/img/blog/blog-1/beentee_loop_oct_15.jpg)
 
 **Hiking the Beentee loop in Co. Kerry while taking weather data measurements, October 2015**
 
@@ -67,7 +69,7 @@ python to figure out, presentations to prepare,
 reports to write, figures to generate, tests to study for and extra reading to do. 
 And I had some work to do for my other 4 subjects too.
 
-![Ensemble Forecasting]({{ site.url}}/shaun-and-jekyll/assets/img/sd_ensemble_fcst.jpg)
+![Ensemble Forecasting]({{ site.url}}/shaun-and-jekyll/assets/img/blog/blog-1/sd_ensemble_fcst.jpg)
 
 **Figure that I produced for a project on ECMWF ensemble forecasting. Data is for Storm Barney
 which hit Ireland in November 2015. Darker colours show how there is increasing uncertainty
@@ -98,8 +100,8 @@ students to take two 'elective' subjects per year,
 which can be in-programme modules to *deepen your learning* or
 modules from outside your programme to *broaden your horizons*.
 
-Taking myself as an example of an-ever-looking-to-broaden-my-horizons-type I've done my elective
-subjects in subjects like macroeconomics, banking, robotics
+Taking myself as an example of an-ever-looking-to-broaden-my-horizons-type I've done my electives 
+in subjects like macroeconomics, banking, robotics
 management studies and french all of which have given me valuable
 insights and new perspectives into different fields that were of interest to me.
 The fallacy is that I've actually consistently got worse grades in my elective 

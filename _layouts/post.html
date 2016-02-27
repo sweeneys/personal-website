@@ -47,7 +47,7 @@ encoding: utf-8
     <ul>
     {% for post in site.posts %}
         <li>
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <a href="/shaun-and-jekyll{{ post.url }}">{{ post.title }}</a>
         </li>
     {% endfor %}
     </ul>

@@ -4,10 +4,19 @@
     <div class = "directory">
         <div class="post-list">
             {% for post in site.posts %}
-                <h4>
+                <div class="post">
+                <div class="post-thumb">
+                <img src="assets/img/blog/{{ post.folder }}/thumb.jpg" alt="{{ post.name }}" />
+                </div>
+                
+                <div class="post-info">
+                <h7>
                 <a class="post-link" href="/shaun-and-jekyll/{{ post.url }}">{{ post.title }}</a>
-                </h4>
+                </h7>
+                <p>{{ post.excerpt }}</p>
                 <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+                </div>
+                </div>
             {% endfor %} 
         </div>
    </div>

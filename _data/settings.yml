@@ -41,13 +41,13 @@ seo:
 blurb: >
   **Welcome!** 
   <br>  
-  I made this site to show off some of the projects that I've worked on over the years. I will  
+  I made this site to show off some of the projects that I've worked on in the last couple of years. I will  
   also be blogging from here. Site is under construction.
   
   <br><br>
 
   **Hire me:**  Graduating next year with a Masters in Energy Systems Engineering from 
-  University College Dublin (UCD) so I'm looking for opportunities.
+  University College Dublin and I am looking for opportunities.
   
   <br><br>
   
@@ -57,7 +57,7 @@ skills:
 - {name: Communication, value: '8'}
 - {name: Teamwork, value: '8'}
 - {name: Project Work, value: '9'}
-- {name: Problem Solving, value: '8'}
+- {name: Problem Solving, value: '9'}
 - {name: Programming, value: '6'}
 - {name: Leadership, value: '7'}
 - {name: Presentations, value: '9'}
@@ -75,8 +75,6 @@ projects:
 - {name: All Ireland Scholarship, folder: 'proj-6', file: 'work/proj-6.html'}
 - {name: Elecsoc, folder: 'proj-7', file: 'work/proj-7.html'}
 - {name: Erasmus Student Network, folder: 'proj-8', file: 'work/proj-8.html'}
-
-
 
 
 #-------------------------------
@@ -97,7 +95,6 @@ social:
 - {icon: 'linkedin', link: 'http://www.linkedin.com/in/shaundsweeney/'}
 - {icon: 'twitter', link: 'https://twitter.com/shaun__sweeney'}
 - {icon: 'facebook', link: 'https://www.facebook.com/shaunsweeney1993'}
-- {icon: 'github', link: 'https://github.com/sweeneys'}
 
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
