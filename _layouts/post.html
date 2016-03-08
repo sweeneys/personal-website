@@ -1,6 +1,8 @@
 ---
 layout: default
 encoding: utf-8
+comments: true
+
 ---
 
 <!DOCTYPE html>
@@ -15,7 +17,7 @@ encoding: utf-8
  <!-- Place this tag in your head or just before your close body tag. -->
  <script src="https://apis.google.com/js/platform.js" async defer></script>
 
-  <title>{{ site.data.settings.title }}</title>
+  <title>{{page.title}}</title>
 
   <link rel="stylesheet" href="../../../../../../assets/css/blogpost.css">
   <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
@@ -39,6 +41,7 @@ encoding: utf-8
 
   {% include sharebuttons.html %}
 
+{% include comments.html %}
 
   <div class="post-list">
     <div class="list-text">
