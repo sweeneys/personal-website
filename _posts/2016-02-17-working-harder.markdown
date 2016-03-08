@@ -4,6 +4,7 @@ title:  "Working harder, learning more and getting worse grades"
 categories: jekyll update
 date:   2016-02-17
 folder: /blog-1
+comments: true
 excerpt_separator: <!--more-->
 ---
 
