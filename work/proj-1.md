@@ -14,6 +14,4 @@ Check out some of the things other people had to say about my entry:
 
 "All first-year pupils at the school will now get laptop computers after an entry by 5th year pupil Shaun Sweeney won the SmartClass competition" - [Irish Times](http://www.irishtimes.com/news/eggs-thrown-at-taoiseach-s-car-in-donegal-1.523006){:target="_blank"}
 
-***More coming soon.***
-
 ![Smart Class](assets/img/work/proj-1/img1.jpg)

@@ -13,6 +13,4 @@ I was involved in research, data analysis, report writing, presentations and fin
 We published a report "Participating in Ireland's Smart Energy Future" which outlined
 our main recommendations which can be found on our [website](http://eni.ucd.ie/?page_id=36){:target="_blank"}
 
-***More coming soon***
-
 ![Energy Needs Ireland](assets/img/work/proj-3/thumb.jpg)

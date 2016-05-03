@@ -8,6 +8,4 @@ abroad and erasmus students to help them to settle in to Ireland and make the mo
 of their time here. These events include weekend trips away, day trips and regular 
 weekly events like afternoon tea.
 
-***More coming soon***
-
 ![Erasmus Student Network](assets/img/work/proj-8/thumb.jpg)

@@ -41,7 +41,7 @@ seo:
 blurb: >
   **Welcome!** 
   <br>  
-  I made this site to show off some of the projects that I've worked on in the last couple of years. I will  
+  I made this site to show some of the projects that I've worked on in the last couple of years. I will  
   also be blogging from here. Site is under construction.
   
   <br><br>
@@ -51,7 +51,7 @@ blurb: >
   
   <br><br>
   
-  **Skills**: Here's a list of things I can do. Ask me to prove it!
+  **Skills**: Here's a list of things I can do.
 
 skills:
 - {name: Communication, value: '8'}

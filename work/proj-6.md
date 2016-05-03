@@ -10,6 +10,4 @@ academic achievements despite coming from underdeveloped socio-economic areas.
 I am from a very rural area near the very northern tip of Ireland with very poor infrastructure
 and a real shortage of investment.
 
-***More coming soon***
-
 ![All Ireland Scholarship](assets/img/work/proj-6/thumb.jpg)

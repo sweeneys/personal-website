@@ -8,7 +8,4 @@ I spent July 2014-November 2014 studying at the university and seeing what Melbo
 to offer (a lot!). I then travelled throughout Australia and New Zealand from December 2014
 - January 2015.
 
-***More coming soon***
-
-
 ![University of Melbourne](assets/img/work/proj-4/thumb.jpg)

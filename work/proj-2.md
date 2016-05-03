@@ -12,6 +12,4 @@ healthiness and beauty.
 I was involved in a team project which proposed a solution relating to the importance of
 and efficient use of public space in future cities as population densities rise.
 
-***More coming soon.***
-
 ![Universitas 21 Summer School](assets/img/work/proj-2/thumb.jpg)

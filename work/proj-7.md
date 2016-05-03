@@ -8,6 +8,4 @@ give talks about their careers and also organises trips.
 The society also doubles as the IEEE Student Branch and I attended the IEEE UK & Ireland 
 Student Conference at the University of Kent, Canterbury last semester.  
 
-***More coming soon***
-
 ![Elecsoc](assets/img/work/proj-7/thumb.jpg)

@@ -8,13 +8,9 @@ comments: true
 excerpt_separator: <!--more-->
 ---
 
-In my first year at university (UCD) I was awarded an academic scholarship that pays my 
-fees, gives me guaranteed
-half price on-campus accommodation and means that I can claim to be part of a 
-community of only around <!--more-->
-150 students from all of UCD that have shown 'exceptional' (!) academic abilities.
-The double-edged sword is that in order to retain the scholarship I have to keep my 
-GPA > 3.68 for
+In my first year at university (UCD) I was awarded an academic scholarship with a lot of perks
+but the double-edged sword is that in order to retain the scholarship I have to keep my 
+GPA > 3.68 for <!--more-->
 the duration of my time in college. That GPA roughly translates to getting at 
 least an average grade of an A- across all subjects.
 

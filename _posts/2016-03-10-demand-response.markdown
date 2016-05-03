@@ -56,7 +56,7 @@ What this meant practically was to turn on a quick-starting and extremely expens
 Demand response introduces an alternative option - to instead decrease demand to fill the gap. The way this works is 
 that energy users (households or small & large companies) reduce their electricity consumption 
 in times of shortage. As an example, a large company could turn off one of their energy intensive processes. This 
-action restores the supply-demand balance without having to turn on any extra power plants and maintaining the 
+action restores the supply-demand balance without having to turn on any extra power plants and maintains the 
 stability of the electricity grid (no blackouts/the lights stay on).
 
 **Big picture**

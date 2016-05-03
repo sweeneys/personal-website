@@ -12,6 +12,4 @@ since then based on my academic achievements in university.
 The Ad Astra Academy aims to build a community of motivated individuals that want to affect 
 real progress in the world.
 
-***More coming soon***
-
 ![Ad Astra Academy](assets/img/work/proj-5/thumb.jpg)
