@@ -69,7 +69,7 @@ I also organised and participated in Tough Mudder for the EnerNOC Dublin office 
 
 And got the opportunity to travel to company HQ over in Boston where most of the 1,500 global EnerNOC employees are based.
 
-![boston]({{ site.url}}/shaun-and-jekyll/assets/img/blog/blog-4/boston.jpg)
+![boston]({{ site.url}}/shaun-and-jekyll/assets/img/blog/blog-4/boston1.jpg)
 
 Throughout this year there were also huge personal & professional challenges that were made so much easier to work through by
 having the support of my parents, family, friends & colleagues. I've learned so much from everyone and while I know that
