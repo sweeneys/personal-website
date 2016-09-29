@@ -19,7 +19,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: "I made this site to show some of the projects that I've worked on over the years and also so I could post some blogs"
+  description: ""
   rel-author: 'http://www.linkedin.com/in/shaundsweeney/'
 
 
@@ -38,30 +38,27 @@ seo:
 
 # NOTE: The avatar is defined in the all.sass document.
 
-blurb: >
+welcome: >
   **Welcome!** 
-  <br>  
-  I made this site to show some of the projects that I've worked on in the last couple of years. I will  
-  also be blogging from here. Site is under construction.
+blurb: >
   
-  <br><br>
-
-  **Hire me:**  Graduating next year with a Masters in Energy Systems Engineering from 
-  University College Dublin and I am looking for opportunities.
-  
-  <br><br>
-  
-  **Skills**: Here's a list of things I can do.
+  I graduate in May 2017 with a masters degree in energy systems engineering. I'm not sure
+  what I want to do after that but here are some of the things that I am interested in:
 
 skills:
-- {name: Communication, value: '8'}
-- {name: Teamwork, value: '8'}
-- {name: Project Work, value: '9'}
-- {name: Problem Solving, value: '9'}
-- {name: Programming, value: '6'}
+- {name: Data Science, value: '5'}
+- {name: Collaborate as part of a high functioning team, value: '9'}
+- {name: Attention to detail, value: '9'}
+- {name: Team development, value: '9'}
+- {name: Python, value: '7'}
 - {name: Leadership, value: '7'}
-- {name: Presentations, value: '9'}
-- {name: Analysis, value: '8'}
+- {name: Working to achieve goals, value: '9'}
+- {name: Power Systems, value: '8'}
+
+
+follow-up: >
+  I hope that list indicates that there are a lot of different areas that 
+  I am interested in. More to follow here.
 
 #-------------------------------
 # Work Section
@@ -81,11 +78,23 @@ projects:
 # Clients Section
 
 clients:
-#- {avatar: 'face-aaroni.jpg',
-#  name: 'Scott Summers',
-#  title: 'Director of Design, OnToText Ind.',
-#  quote: '<p><strong>While we all felt that Travis was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>',
-#  logo: 'logo1.png'}
+- {avatar: 'aonghus.jpg',
+  name: 'Dr. Aonghus Shortt',
+  title: "Shaun's Manager at ElectroRoute, now Founder at FoodMarble",
+  quote: '<p>Shaun is an incredibly capable and hard working guy. While at ElectroRoute, he completed some outlandishly complex projects, going above and beyond what could be expected of him. He was a key asset and he also happens to be a really nice guy.</p>',
+  logo: 'electroroute-logo.png'}
+
+- {avatar: 'tony.jpg',
+  name: 'Tony Whittle',
+  title: "Shaun's Manager at EnerNOC, Now manager of EnerNOC Global Operations",
+  quote: '<p>Shaun joined my team as an intern just before I hired 8 FTE to build the EMEA NOC. During the training he learned fast, asked the right questions, pointed to & solved problems quickly. During the next few months he communicated change and shared learnings with the entire team and took a position where he really was leading change. He did numerous process improvement projects all with an exceptionally high attention to detail. Shaun did a great job and we have invited him back whenever he is free to work with us.</p>',
+  logo: 'enernoc-logo.jpg'}
+
+- {avatar: 'nina.jpg',
+  name: 'Nina Wiegers',
+  title: 'Co-Founder, Gondolaa, now working with Shaun to prepare for EUXCEL challenge final pitchs',
+  quote: "<p>Since co-founding Gondolaa in May 2016, Shaun has shown an incredible attention to detail, the ability to filter and translate important information nodes into actionable tasks, the ability to identify and subsequently eliminate potential bottlenecks in planning and executing tasks and strategy, absolutely accurate allocation of essential resources for efficient collaboration. Shaun features an integer, easy-going and admirable personality.</p>", 
+  logo: 'gondolaa-logo.png'}
 
 
 #-------------------------------

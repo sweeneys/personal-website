@@ -13,6 +13,9 @@
 
   </div>
 
+  <div class="welcome">
+    {{ site.data.settings.welcome | markdownify }}
+  </div>
 
   <div class="blurb">
     {{ site.data.settings.blurb | markdownify }}
@@ -38,5 +41,10 @@
   </div>
 
   {% endif %}
+
+  <div class="follow-up">
+    {{ site.data.settings.follow-up | markdownify }}
+  </div>
+
 
 </section>
