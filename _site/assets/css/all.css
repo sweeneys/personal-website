@@ -658,7 +658,7 @@ header {
     header h1 {
       padding-top: 0px; } }
 footer {
-  background-image: url(../img/), url(../img/hero-bg-bottom.jpg); }
+  background-image: url(../img/), url(../img/buer-valley-bottom.jpg); }
   footer .lockup {
     padding: 50px 30px; }
     footer .lockup:after {
@@ -746,6 +746,15 @@ footer {
       margin: 0 auto 30px; }
     .face-lockup [class^="icon-"] {
       margin: 10px 9%; } }
+      
+.welcome {
+  max-width: 620px;
+  padding: 0 20px;
+  margin: 50px auto;
+  font-size: 24px;
+  text-align: center;
+  font-weight: 300; }
+
 .blurb {
   max-width: 620px;
   padding: 0 20px;
