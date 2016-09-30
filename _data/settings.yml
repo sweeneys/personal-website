@@ -39,7 +39,8 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 welcome: >
-  **Welcome!** 
+  **Welcome!**
+
 blurb: >
   
   I graduate in May 2017 with a masters degree in energy systems engineering. I'm not sure
@@ -55,7 +56,9 @@ skills:
 - {name: Working to achieve goals, value: '9'}
 - {name: Power Systems, value: '8'}
 
+endblurb: >
 
+  Testing 1000
 
 
 #-------------------------------
