@@ -729,7 +729,7 @@ footer {
     border-radius: 50%;
     background-size: cover;
     background-position: center;
-    background-image: url(../img/profile_photo.jpg);
+    background-image: url(../img/buer_valley.jpg);
     height: 200px;
     width: 200px; }
 
@@ -746,29 +746,12 @@ footer {
       margin: 0 auto 30px; }
     .face-lockup [class^="icon-"] {
       margin: 10px 9%; } }
-
-.welcome {
-  max-width: 620px;
-  padding: 0 20px;
-  margin: 50px auto;
-  font-size: 24px;
-  text-align: center ;
-  font-weight: 300; }
-
 .blurb {
   max-width: 620px;
   padding: 0 20px;
   margin: 50px auto;
   font-size: 24px;
-  text-align: left;
-  font-weight: 300; }
-
-.follow-up {
-  max-width: 620px;
-  padding: 0 20px;
-  margin: 50px auto;
-  font-size: 24px;
-  text-align: left;
+  text-align: center;
   font-weight: 300; }
 
 .skill-lockup {
