@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Shaun Sweeney
-description: Energy Systems Engineering
+description: Looking for opportunities!
 email: shaun.sweeney@ucdconnect.ie
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
@@ -43,22 +43,35 @@ welcome: >
 
 blurb: >
   
-  I graduate in May 2017 with a masters degree in energy systems engineering. I'm not sure
-  what I want to do after that but here are some of the things that I am interested in:
+  I'm Shaun! I'm 23 and I will graduate from University College Dublin, Ireland with a Masters degree
+  in energy systems engineering in May 2017 and I'm really not sure what I want to do after that.
+  I love to travel and meet new people, I love to get involved in very technical and detailed projects
+  and I love to learn new things.  
+  I also have an exemplary academic record (but that's boring).
+  To emphasise how not sure I am about what I want to do after I graduate, here is a list of
+  things that I can do/I am interested in:
 
 skills:
-- {name: Data Science, value: '5'}
-- {name: Collaborate as part of a high functioning team, value: '9'}
-- {name: Attention to detail, value: '9'}
-- {name: Team development, value: '9'}
-- {name: Python, value: '7'}
-- {name: Leadership, value: '7'}
+- {name: Energy and power systems, value: '8'}
+- {name: Collaborate as part of a high-functioning team, value: '9'}
+- {name: Electrical transport, value: '5'}
+- {name: Data science, value: '5'}
+- {name: Programming, value: '7'}
+- {name: Project and team leadership, value: '8'}
 - {name: Working to achieve goals, value: '9'}
-- {name: Power Systems, value: '8'}
+- {name: Attention to detail, value: '9'}
+- {name: Maths, value: '8'}
+- {name: Smart cities, value: '6'}
+
 
 endblurb: >
 
-  Please get in touch if you would like to work together.
+  The cynic (logical thinker) in me appreciates the ridiculousness of using a grading
+  system like above to describe such general terms (what do I even mean that I am an '8' at maths?!).
+  As such please discount the whole skills rating section above.
+  The truth is I'm pretty much interested in everything, I love a challenge and I thrive on 
+  responsibility. If there is anything you think I would be good at (job, PhD, graduate programme, start-up, 
+  work in a bar in Spain), I would be really interested to hear about it so please get in touch.
 
 
 #-------------------------------
@@ -88,13 +101,13 @@ clients:
 - {avatar: 'tony.jpg',
   name: 'Tony Whittle',
   title: "Shaun's Manager at EnerNOC, Now manager of EnerNOC Global Operations",
-  quote: '<p>Shaun joined my team as an intern just before I hired 8 FTE to build the EMEA NOC. During the training he learned fast, asked the right questions, pointed to & solved problems quickly. During the next few months he communicated change and shared learnings with the entire team and took a position where he really was leading change. He did numerous process improvement projects all with an exceptionally high attention to detail. Shaun did a great job and we have invited him back whenever he is free to work with us.</p>',
+  quote: '<p>Shaun joined my team as an intern just before I hired 8 full time employees to build the EMEA operations center. Shaun learned fast, asked the right questions, pointed to & solved problems quickly and was in a position where he really was leading organisational change. He was in charge of numerous process and productivity improvement projects which he completed with an exceptionally high attention to detail. We have invited him back whenever he is free to work with us.</p>',
   logo: 'enernoc-logo.jpg'}
 
 - {avatar: 'nina.jpg',
   name: 'Nina Wiegers',
   title: 'Co-Founder, Gondolaa, now working with Shaun to prepare for EUXCEL challenge final pitchs',
-  quote: "<p>Since co-founding Gondolaa in May 2016, Shaun has shown an incredible attention to detail, the ability to filter and translate important information nodes into actionable tasks, the ability to identify and subsequently eliminate potential bottlenecks in planning and executing tasks and strategy, absolutely accurate allocation of essential resources for efficient collaboration. Shaun features an integer, easy-going and admirable personality.</p>", 
+  quote: "<p>Since co-founding Gondolaa in May 2016, Shaun has shown an incredible attention to detail, the ability to filter and translate important information nodes into actionable tasks, the ability to identify and subsequently eliminate potential bottlenecks in planning and executing tasks and strategy, as well as absolutely accurate allocation of essential resources for efficient collaboration. Shaun features an integer, easy-going and admirable personality.</p>", 
   logo: 'gondolaa-logo.png'}
 
 
