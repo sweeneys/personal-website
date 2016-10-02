@@ -113,7 +113,7 @@ clients:
 
 - {avatar: 'nina.jpg',
   name: 'Nina Wiegers',
-  title: 'Co-Founder, Gondolaa, now working with Shaun to prepare for EUXCEL challenge final pitchs',
+  title: 'Co-Founder, Gondolaa, now working with Shaun to prepare for EUXCEL challenge final',
   quote: "<p>Since co-founding Gondolaa in May 2016, Shaun has shown an incredible attention to detail, the ability to filter and translate important information nodes into actionable tasks, the ability to identify and subsequently eliminate potential bottlenecks in planning and executing tasks and strategy, as well as absolutely accurate allocation of essential resources for efficient collaboration. Shaun features an integer, easy-going and admirable personality.</p>", 
   logo: 'gondolaa-logo.png'}
 
