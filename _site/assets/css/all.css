@@ -1327,3 +1327,11 @@ form {
   text-align: center; }
   .form-success p {
     font-size: 18px; }
+
+.work-blurb {
+  max-width: 620px;
+  padding: 0 20px;
+  margin: 50px auto;
+  font-size: 24px;
+  text-align: left;
+  font-weight: 300; }
