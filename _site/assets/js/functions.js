@@ -3,6 +3,7 @@ $(function() {
 	workBelt();
 	workLoad();
 	clientStuff();
+	switchWork();
 
 	$("header h1").fitText(1, { minFontSize: '20px', maxFontSize: '72px' });
 	$(".biglink").fitText(1.5);
@@ -101,6 +102,49 @@ function clientStuff() {
           $('.client-button').removeClass('active-client').last().addClass('active-client');
         } else {
           $('.active-client').removeClass('active-client').prev().addClass('active-client');
+        }
+
+      }
+
+
+  });
+
+}
+
+//function to switch between which work experience gets shown on page
+function switchWork() {
+
+//   $('.work-logo, .work-button').click(function() {
+//     var $this = $(this),
+//         position = $this.parent().children().index($this);
+
+//     $('.work-unit').removeClass('active-work').eq(position).addClass('active-work');
+//   });
+
+
+  $('.work-control-next, .work-control-prev').click(function() {
+
+    var $this = $(this),
+        curActiveWork = $('.work-belt').find('.active-work'),
+        workPosition = $('.work-belt').children().index(curActiveWork),
+        workNum = 7;
+
+
+
+      if($this.hasClass('work-control-next')) {
+
+        if(workPosition < workNum-1){
+          $('.active-work').removeClass('active-work').next().addClass('active-work');
+        } else {
+          $('.work-unit').removeClass('active-work').first().addClass('active-work');
+        }
+
+      } else {
+
+        if (workPosition === 2) {
+          $('.work-unit').removeClass('active-work').last().addClass('active-work');
+        } else {
+          $('.active-work').removeClass('active-work').prev().addClass('active-work');
         }
 
       }

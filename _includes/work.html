@@ -1,9 +1,52 @@
 <section class="section-work-exp">
 
-    <h3 id="work-exp">Work Experience</h3>
+   <h3 id="work-exp">Work Experience</h3>
 
-    <div class="work-blurb">
-    Section is currently being built. Check my LinkedIn for
-    details of work experience in the mean time.
-    </div>
+   <div class="work-content">
+        <div class="work-menu">
+            <!--<a href="" class ="work-menu-unit">-->
+                <div class="work-menu-unit">
+                    <!--Gondolaa-->
+                    <img src="assets/img/work-exp/gondolaa-logo.png" />
+                </div>
+                <div class="work-menu-unit">
+                    <!--EnerNOC-->
+                    <img src="assets/img/work-exp/enernoc-logo.jpg" />
+                </div>
+                <div class="work-menu-unit">
+                    <!--ElectroRoute-->
+                    <img src="assets/img/work-exp/electroroute-logo.png" />
+                </div>
+                <div class="work-menu-unit">
+                    <!--Deloitte-->
+                    <img src="assets/img/work-exp/deloitte-logo.jpg" />
+                </div>
+                <div class="work-menu-unit">
+                    <!--ERC-->
+                    <img src="assets/img/work-exp/erc-logo.png" />
+                </div>
+            <!--</a>-->
+        </div>
+        <div class="work-belt">
+            {% for work in site.data.settings.work %}
+                <div class="work-unit {% if forloop.first %}active-work{% endif %}">
+                    <div class="work-unit-content">
+                    {{ work.info }}    
+                    </div>        
+                </div>
+                
+                <!--<div class="work-unit-detail">
+                More text  
+                </div>-->
+            
+            {% endfor %}
+        </div>
+        <div class="work-controls">
+            <div class="work-control-next">{% include icons/icon-next.html %}</div>
+            <div class="work-control-prev">{% include icons/icon-prev.html %}</div>
+        </div>
+   </div>
+
+
+
 </section>
