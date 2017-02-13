@@ -82,9 +82,9 @@ endblurb: >
 
 
 #-------------------------------
-# Work Section
+# Achievements Section
 
-projects:
+achievements:
 - {name: Smart Class Competition, folder: 'proj-1', file: 'work/proj-1.html'}
 - {name: Universitas 21 Summer School, folder: 'proj-2', file: 'work/proj-2.html'}
 - {name: Energy Needs Ireland, folder: 'proj-3', file: 'work/proj-3.html'}
@@ -94,6 +94,29 @@ projects:
 - {name: Elecsoc, folder: 'proj-7', file: 'work/proj-7.html'}
 - {name: Erasmus Student Network, folder: 'proj-8', file: 'work/proj-8.html'}
 
+#-------------------------------
+# Work Section
+work:
+- {name: Gondolaa, 
+  folder: 'work', 
+  file: 'work/gondolaa.html',
+  info: 'More information coming soon!'}
+- {name: EnerNOC, 
+  folder: 'work', 
+  file: 'work/enernoc.html',
+  info: 'But the arrows work now'}
+- {name: ElectroRoute, 
+  folder: 'work', 
+  file: 'work/electroroute.html',
+  info: 'Which took a long time'}
+- {name: Deloitte, 
+  folder: 'work', 
+  file: 'work/deloitte.html',
+  info: "You're persistent!"}
+- {name: ERC, 
+  folder: 'work', 
+  file: 'work/erc.html',
+  info: 'I like that'}
 
 #-------------------------------
 # Clients Section
@@ -113,7 +136,7 @@ clients:
 
 - {avatar: 'nina.jpg',
   name: 'Nina Wiegers',
-  title: 'Co-Founder, Gondolaa, now working with Shaun to prepare for EUXCEL challenge final',
+  title: 'Co-Founder, Gondolaa',
   quote: "<p>Since co-founding Gondolaa in May 2016, Shaun has shown an incredible attention to detail, the ability to filter and translate important information nodes into actionable tasks, the ability to identify and subsequently eliminate potential bottlenecks in planning and executing tasks and strategy, as well as absolutely accurate allocation of essential resources for efficient collaboration. Shaun features an integer, easy-going and admirable personality.</p>", 
   logo: 'gondolaa-logo.png'}
 

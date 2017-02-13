@@ -5,8 +5,8 @@
 .noscript
   display: none
 
-@each $proj in $projects
-  ##{$proj}:checked ~ .work-belt .work-wrap .work-container noscript #content-#{$proj}
+@each $ach in $achievements
+  ##{$ach}:checked ~ .work-belt .work-wrap .work-container noscript #content-#{$ach}
     display: block
 
 .return

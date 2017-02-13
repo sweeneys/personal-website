@@ -1,9 +1,81 @@
 .section-work-exp
+  position: relative
 
-.work-blurb
-  max-width: 620px
-  padding: 0 20px
-  margin: 50px auto
-  font-size: 24px
-  text-align: left
-  font-weight: 300
+.work-content
+  display: flex
+  max-width: 960px
+  margin: 0px auto
+  +clearfix
+
+
+  .work-menu
+    float:left
+    max-width: 238px
+    
+
+    .work-menu-unit
+      padding-top: 12%
+      
+
+  .work-belt
+    max-width: 600px
+    float: left
+    padding-left: 40px
+    
+
+    .work-unit
+      max-width: 750px
+      float: left
+      z-index: 1
+      display: none
+      padding-top: 20%
+
+      &.active-work
+        +display(flex)
+
+      .work-unit-content
+        font-size: 18px
+        line-height: 36px
+        font-weight: 300
+
+
+// Controls
+.work-controls
+  +position(absolute, 0px 0px 0px 0px)
+  z-index: 2
+
+  > div
+    +size(40px)
+    margin-top: -20px
+    cursor: pointer
+
+    path
+      fill: $accent
+
+  .work-control-next
+    +position(absolute, 50% 10px null null)
+
+  .work-control-prev
+    +position(absolute, 50% null null 10px)
+
+
+// Logos
+.work-logos
+  position: relative
+  z-index: 3
+  margin: 0px auto 100px
+  +display(flex)
+  +align-items(flex-end)
+  +justify-content(space-around)
+
+
+  .client-logo
+    cursor: pointer
+    margin: 0 20px 20px
+    padding-bottom: 20px
+    border-bottom: 4px solid transparent
+    opacity: 0.5
+
+    &.active-client
+      opacity: 1
+      border-bottom: 4px solid $accent

@@ -1,8 +1,8 @@
 <section class="section-work">
 
   <h3 id="work">Achievements</h3>
-  {% for project in site.data.settings.projects %}
-    <input type="radio" name="trigger" class="trigger" id="{{ project.folder }}" />
+  {% for achievement in site.data.settings.achievement %}
+    <input type="radio" name="trigger" class="trigger" id="{{ achievement.folder }}" />
   {% endfor %}
 
   <input type="radio" name="trigger" id="return" class="return" />
@@ -11,13 +11,13 @@
 
     <div class="thumb-wrap">
       <div class="thumb-container">
-      {% for project in site.data.settings.projects %}
-      <label for="{{ project.folder }}">
-        <div class="thumb-unit" data-folder="{{ project.folder }}">
-          <img src="assets/img/work/{{project.folder}}/thumb.jpg" alt="{{ project.name }}" />
+      {% for achievement in site.data.settings.achievements %}
+      <label for="{{ achievement.folder }}">
+        <div class="thumb-unit" data-folder="{{ achievement.folder }}">
+          <img src="assets/img/work/{{achievement.folder}}/thumb.jpg" alt="{{ achievement.name }}" />
         </div>
         <div class="thumb-overlay">
-          <strong>{{ project.name }}</strong>
+          <strong>{{ achievement.name }}</strong>
         </div>
       </label>
       {% endfor %}
@@ -33,11 +33,11 @@
       <div class="project-load"></div>
 
       <noscript>
-        {% for project in site.data.settings.projects %}
-          <div class="noscript" id="content-{{ project.folder }}">
-            <h4 class="project-title">{{ project.name }}</h4>
+        {% for achievement in site.data.settings.achievement %}
+          <div class="noscript" id="content-{{ achievement.folder }}">
+            <h4 class="project-title">{{ achievement.name }}</h4>
             <div class="noscript-load">
-              {% include {{project.file}} %}
+              {% include {{achievement.file}} %}
             </div>
           </div>
         {% endfor %}

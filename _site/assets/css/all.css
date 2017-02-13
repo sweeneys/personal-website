@@ -968,6 +968,106 @@ footer {
     left: 0px; }
   .work-container h4 {
     margin-left: 60px; } }
+.section-work-exp {
+  position: relative; }
+
+.work-content {
+  display: flex;
+  max-width: 960px;
+  margin: 0px auto; }
+  .work-content:after {
+    content: "";
+    display: table;
+    clear: both; }
+  .work-content .work-menu {
+    max-width: 238px; }
+    .work-content .work-menu .work-menu-unit {
+      padding-top: 12%; }
+  .work-content .work-belt {
+    max-width: 600px;
+    float: left;
+    padding-left: 40px; }
+    .work-content .work-belt .work-unit {
+      max-width: 750px;
+      float: left;
+      z-index: 1;
+      display: none;
+      padding-top: 20%; }
+      .work-content .work-belt .work-unit.active-work {
+        display: -webkit-box;
+        display: -moz-box;
+        display: box;
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flexbox;
+        display: flex; }
+      .work-content .work-belt .work-unit .work-unit-content {
+        font-size: 18px;
+        line-height: 36px;
+        font-weight: 300; }
+
+.work-controls {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  z-index: 2; }
+  .work-controls > div {
+    height: 40px;
+    width: 40px;
+    margin-top: -20px;
+    cursor: pointer; }
+    .work-controls > div path {
+      fill: #c99065; }
+  .work-controls .work-control-next {
+    position: absolute;
+    top: 50%;
+    right: 10px; }
+  .work-controls .work-control-prev {
+    position: absolute;
+    top: 50%;
+    left: 10px; }
+
+.work-logos {
+  position: relative;
+  z-index: 3;
+  margin: 0px auto 100px;
+  display: -webkit-box;
+  display: -moz-box;
+  display: box;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: end;
+  -moz-box-align: end;
+  box-align: end;
+  -webkit-align-items: flex-end;
+  -moz-align-items: flex-end;
+  -ms-align-items: flex-end;
+  -o-align-items: flex-end;
+  align-items: flex-end;
+  -ms-flex-align: end;
+  -webkit-box-pack: center;
+  -moz-box-pack: center;
+  box-pack: center;
+  -webkit-justify-content: space-around;
+  -moz-justify-content: space-around;
+  -ms-justify-content: space-around;
+  -o-justify-content: space-around;
+  justify-content: space-around;
+  -ms-flex-pack: center; }
+  .work-logos .client-logo {
+    cursor: pointer;
+    margin: 0 20px 20px;
+    padding-bottom: 20px;
+    border-bottom: 4px solid transparent;
+    opacity: 0.5; }
+    .work-logos .client-logo.active-client {
+      opacity: 1;
+      border-bottom: 4px solid #c99065; }
+
 .directory {
   max-width: 800px;
   padding: 0 auto;
@@ -1327,11 +1427,3 @@ form {
   text-align: center; }
   .form-success p {
     font-size: 18px; }
-
-.work-blurb {
-  max-width: 620px;
-  padding: 0 20px;
-  margin: 50px auto;
-  font-size: 24px;
-  text-align: left;
-  font-weight: 300; }
