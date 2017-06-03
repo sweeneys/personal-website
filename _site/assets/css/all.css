@@ -969,6 +969,7 @@ footer {
   .work-container h4 {
     margin-left: 60px; } }
 .section-work-exp {
+<<<<<<< HEAD
   position: relative; }
 
 .work-content {
@@ -988,12 +989,60 @@ footer {
     float: left;
     padding-left: 40px; }
     .work-content .work-belt .work-unit {
+=======
+  position: relative;
+  overflow-x: hidden; }
+
+.work-exp-belt {
+  display: flex;
+  max-width: 960px;
+  margin: 0px auto; }
+  .work-exp-belt:after {
+    content: "";
+    display: table;
+    clear: both; }
+  .work-exp-belt .work-exp-menu {
+    width: 238px;
+    margin: 0px auto; }
+    .work-exp-belt .work-exp-menu:after {
+      content: "";
+      display: table;
+      clear: both; }
+    .work-exp-belt .work-exp-menu .work-exp-menu-unit {
+      cursor: pointer;
+      opacity: 0.7; }
+      .work-exp-belt .work-exp-menu .work-exp-menu-unit:hover {
+        opacity: 1; }
+      .work-exp-belt .work-exp-menu .work-exp-menu-unit img {
+        margin: 0 auto 0px;
+        width: 75%;
+        padding: 15px;
+        display: block; }
+  .work-exp-belt .work-exp-content {
+    width: 600px;
+    float: left; }
+    .work-exp-belt .work-exp-content h4 {
+      color: #c99065;
+      font-weight: 300;
+      font-size: 24px;
+      text-transform: uppercase;
+      line-height: 1.2;
+      margin-top: 0px; }
+    .work-exp-belt .work-exp-content img {
+      max-width: 100%;
+      margin-bottom: 20px; }
+    .work-exp-belt .work-exp-content .work-exp-unit {
+>>>>>>> work-exp-dev
       max-width: 750px;
       float: left;
       z-index: 1;
       display: none;
       padding-top: 20%; }
+<<<<<<< HEAD
       .work-content .work-belt .work-unit.active-work {
+=======
+      .work-exp-belt .work-exp-content .work-exp-unit.active-work-exp {
+>>>>>>> work-exp-dev
         display: -webkit-box;
         display: -moz-box;
         display: box;
@@ -1001,23 +1050,36 @@ footer {
         display: -moz-flex;
         display: -ms-flexbox;
         display: flex; }
+<<<<<<< HEAD
       .work-content .work-belt .work-unit .work-unit-content {
+=======
+      .work-exp-belt .work-exp-content .work-exp-unit .work-exp-unit-content {
+>>>>>>> work-exp-dev
         font-size: 18px;
         line-height: 36px;
         font-weight: 300; }
 
+<<<<<<< HEAD
 .work-controls {
+=======
+.work-exp-controls {
+>>>>>>> work-exp-dev
   position: absolute;
   top: 0px;
   right: 0px;
   bottom: 0px;
   left: 0px;
   z-index: 2; }
+<<<<<<< HEAD
   .work-controls > div {
+=======
+  .work-exp-controls > div {
+>>>>>>> work-exp-dev
     height: 40px;
     width: 40px;
     margin-top: -20px;
     cursor: pointer; }
+<<<<<<< HEAD
     .work-controls > div path {
       fill: #c99065; }
   .work-controls .work-control-next {
@@ -1025,11 +1087,24 @@ footer {
     top: 50%;
     right: 10px; }
   .work-controls .work-control-prev {
+=======
+    .work-exp-controls > div path {
+      fill: #c99065; }
+  .work-exp-controls .work-exp-control-next {
+    position: absolute;
+    top: 50%;
+    right: 10px; }
+  .work-exp-controls .work-exp-control-prev {
+>>>>>>> work-exp-dev
     position: absolute;
     top: 50%;
     left: 10px; }
 
+<<<<<<< HEAD
 .work-logos {
+=======
+.work-exp-logos {
+>>>>>>> work-exp-dev
   position: relative;
   z-index: 3;
   margin: 0px auto 100px;
@@ -1058,13 +1133,21 @@ footer {
   -o-justify-content: space-around;
   justify-content: space-around;
   -ms-flex-pack: center; }
+<<<<<<< HEAD
   .work-logos .client-logo {
+=======
+  .work-exp-logos .client-logo {
+>>>>>>> work-exp-dev
     cursor: pointer;
     margin: 0 20px 20px;
     padding-bottom: 20px;
     border-bottom: 4px solid transparent;
     opacity: 0.5; }
+<<<<<<< HEAD
     .work-logos .client-logo.active-client {
+=======
+    .work-exp-logos .client-logo.active-client {
+>>>>>>> work-exp-dev
       opacity: 1;
       border-bottom: 4px solid #c99065; }
 

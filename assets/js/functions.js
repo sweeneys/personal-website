@@ -4,12 +4,37 @@ $(function() {
 	workLoad();
 	clientStuff();
 	switchWork();
+<<<<<<< HEAD
+=======
+
+>>>>>>> work-exp-dev
 
 	$("header h1").fitText(1, { minFontSize: '20px', maxFontSize: '72px' });
 	$(".biglink").fitText(1.5);
 
 	$('textarea').autosize();
 });
+
+
+//function to switch between which work experience gets shown on page
+function switchWork() {
+	//by default - first work experience should be shown
+	
+	//when image on left hand side is clicked, the corresponding information should load on the right pane
+
+	
+	$.ajaxSetup({ cache:false });
+
+	$('.work-exp-menu-unit').click(function(){
+		var $this = $(this), 
+			newTitleWork = $this.data('name'),
+			newFolderWork = $this.data('folder'),
+			spinner = '<div class="loader">Loading...</div>',
+			newHTMLWork = ''+newFolderWork+'.html'
+			$('.project-load-work-exp').html(spinner).load(newHTMLWork);
+			$('.work-exp-title').text(newTitleWork);
+	});
+}
 
 // smoothScroll function is applied from the document ready function
 function smoothScroll (duration) {
@@ -153,6 +178,8 @@ function switchWork() {
   });
 
 }
+
+
 
 
 (function( $ ){
