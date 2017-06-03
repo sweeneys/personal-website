@@ -1,46 +1,74 @@
 .section-work-exp
   position: relative
+  overflow-x: hidden
 
-.work-content
+.work-exp-belt
   display: flex
   max-width: 960px
   margin: 0px auto
   +clearfix
 
 
-  .work-menu
-    float:left
-    max-width: 238px
+  .work-exp-menu
+    width: 238px
+    margin: 0px auto
+    +clearfix
     
 
-    .work-menu-unit
-      padding-top: 12%
+    .work-exp-menu-unit
+      cursor: pointer
+      opacity: 0.7
+
+      &:hover
+        opacity: 1.0
+
+      img
+        margin: 0 auto 0px
+        width: 75%
+        padding: 15px
+        display: block
+        
+
+
+        
       
 
-  .work-belt
-    max-width: 600px
+  .work-exp-content
+    width: 600px
     float: left
-    padding-left: 40px
+
+    h4
+      color: $accent
+      font-weight: 300
+      font-size: 24px
+      text-transform: uppercase
+      line-height: 1.2
+      margin-top: 0px
+
+    img
+      max-width: 100%
+      margin-bottom: 20px
+
     
 
-    .work-unit
+    .work-exp-unit
       max-width: 750px
       float: left
       z-index: 1
       display: none
       padding-top: 20%
 
-      &.active-work
+      &.active-work-exp
         +display(flex)
 
-      .work-unit-content
+      .work-exp-unit-content
         font-size: 18px
         line-height: 36px
         font-weight: 300
 
 
 // Controls
-.work-controls
+.work-exp-controls
   +position(absolute, 0px 0px 0px 0px)
   z-index: 2
 
@@ -52,15 +80,15 @@
     path
       fill: $accent
 
-  .work-control-next
+  .work-exp-control-next
     +position(absolute, 50% 10px null null)
 
-  .work-control-prev
+  .work-exp-control-prev
     +position(absolute, 50% null null 10px)
 
 
 // Logos
-.work-logos
+.work-exp-logos
   position: relative
   z-index: 3
   margin: 0px auto 100px

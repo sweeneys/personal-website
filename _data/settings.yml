@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Shaun Sweeney
-description: Looking for opportunities!
+description: Looking for opportunities
 email: shaun.sweeney@ucdconnect.ie
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
@@ -43,42 +43,41 @@ welcome: >
 
 blurb: >
   
-  I'm Shaun! I'm 23 and I will graduate from University College Dublin, Ireland with a Masters degree
-  in energy systems engineering in May 2017 and I'm really not sure what I want to do after that.
-  I love to travel and meet new people, I love to get involved in very technical and detailed projects
-  and I love to learn new things.  
-  I also have an exemplary academic record (but that's boring).
+  I'm 23 and I have recently graduated with a Masters degree in Energy Systems Engineering from University 
+  College Dublin, Ireland. I also have a Bachelors degree in Electrical & Electronic Engineering.
+  I made this website because I was repeatedly frustrated by the lack of customizability options that LinkedIn
+  offers. On this website you will find details of the things that I am good at, my achievements, my work 
+  experience and a few comments from some people I have worked with in the past.
+
+
   To get to know me a bit better, here is a list of things that I can do/I am interested in:
 
 skills:
-- {name: Energy and power systems, value: '8'}
-- {name: Electrical transport, value: '5'}
-- {name: Statistics and data science, value: '5'}
-- {name: Programming, value: '7'}
+- {name: 'Energy systems, power systems', value: '7'}
+- {name: Electrical transport, value: '7'}
+- {name: 'Coding, software', value: '8'}
+- {name: 'Statistics, data science, machine learning', value: '6'}
 - {name: Project and team leadership, value: '9'}
-- {name: Work to achieve goals, value: '9'}
-- {name: Attention to detail, value: '9'}
+- {name: Goal setting and achievement, value: '9'}
+- {name: Attention to detail, value: '8'}
 - {name: Communicate effectively, value: '8'}
-- {name: Maths, value: '8'}
-- {name: 'Smart cities, smart grids and policy', value: '7'}
-- {name: Entrepreneurship / start-ups, value: '7'}
-- {name: Control and optimisation, value: '6'}
+- {name: Maths, value: '7'}
+- {name: 'Smart cities, smart grids, economics', value: '7'}
+- {name: 'Entrepreneurship, start-ups', value: '6'}
+- {name: Control theory and optimisation, value: '8'}
 
 
 endblurb: >
-
   The logical thinker in me appreciates the ridiculousness of using a grading
-  system like above to describe such general terms (what could I possibly mean that I am '8/10' at maths?).
+  system like above to describe such general terms (what could I possibly mean that I am '7/10' at maths?).
   The truth is that I am interested in a wide variety of topics and I think
-  I could give almost anything a go - I can provide one
-  universal truth though which is that I love a challenge and I thrive on 
+  I could give almost anything a go. I can provide one universal truth though which is that I love a challenge and I thrive on 
   responsibility. 
-  
 
-  If there is anything that you think I would be good at (job, PhD, graduate programme, start-up, 
-  entrepreneurship / leadership programme), I would be really eager to discuss this with you.
-  Also, I hope you like the site and please get in touch if there is anything
-  else that you would like to know about me.
+
+  The site is constantly evolving (and never finished) so check back regularly for updates. I built the site from scratch (with some 
+  guidance from @DevTips on YouTube) because I wanted a way to further improve my web development skills (HTML, Sass, JS). Please 
+  get in touch if there is anything else that you would like to know about me.
 
 
 #-------------------------------
@@ -89,34 +88,44 @@ achievements:
 - {name: Universitas 21 Summer School, folder: 'proj-2', file: 'work/proj-2.html'}
 - {name: Energy Needs Ireland, folder: 'proj-3', file: 'work/proj-3.html'}
 - {name: University of Melbourne, folder: 'proj-4', file: 'work/proj-4.html'}
-- {name: Ad Astra Academy, folder: 'proj-5', file: 'work/proj-5.html'}
-- {name: All Ireland Scholarship, folder: 'proj-6', file: 'work/proj-6.html'}
-- {name: Elecsoc, folder: 'proj-7', file: 'work/proj-7.html'}
+- {name: Ad Astra Academy Scholarship, folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: All-Ireland Scholarship, folder: 'proj-6', file: 'work/proj-6.html'}
+- {name: Elec Engineering Society, folder: 'proj-7', file: 'work/proj-7.html'}
 - {name: Erasmus Student Network, folder: 'proj-8', file: 'work/proj-8.html'}
 
 #-------------------------------
 # Work Section
 work:
+- {name: IBM Research, 
+  folder: 'work-exp', 
+  file: 'work-exp/ibm',
+  info: '',
+  logo: 'ibm-research-logo.png'}
 - {name: Gondolaa, 
-  folder: 'work', 
-  file: 'work/gondolaa.html',
-  info: 'More information coming soon!'}
+  folder: 'work-exp', 
+  file: 'work-exp/gondolaa',
+  info: '',
+  logo: 'gondolaa-logo.png'}
 - {name: EnerNOC, 
-  folder: 'work', 
-  file: 'work/enernoc.html',
-  info: 'But the arrows work now'}
+  folder: 'work-exp', 
+  file: 'work-exp/enernoc',
+  info: '',
+  logo: 'enernoc-logo.jpg'}
 - {name: ElectroRoute, 
-  folder: 'work', 
-  file: 'work/electroroute.html',
-  info: 'Which took a long time'}
+  folder: 'work-exp', 
+  file: 'work-exp/electroroute',
+  info: '',
+  logo: 'electroroute-logo.png'}
 - {name: Deloitte, 
-  folder: 'work', 
-  file: 'work/deloitte.html',
-  info: "You're persistent!"}
-- {name: ERC, 
-  folder: 'work', 
-  file: 'work/erc.html',
-  info: 'I like that'}
+  folder: 'work-exp', 
+  file: 'work-exp/deloitte',
+  info: "",
+  logo: 'deloitte-logo.jpg'}
+- {name: Electricity Research Centre, 
+  folder: 'work-exp', 
+  file: 'work-exp/erc',
+  info: '',
+  logo: 'erc-logo.png'}
 
 #-------------------------------
 # Clients Section
@@ -148,6 +157,7 @@ social:
 - {icon: 'linkedin', link: 'http://www.linkedin.com/in/shaundsweeney/'}
 - {icon: 'twitter', link: 'https://twitter.com/shaun__sweeney'}
 - {icon: 'facebook', link: 'https://www.facebook.com/shaunsweeney1993'}
+- {icon: 'github', link: 'https://github.com/sweeneys'}
 
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
