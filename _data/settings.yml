@@ -97,6 +97,7 @@ achievements:
 # Work Section
 work:
 <<<<<<< HEAD
+<<<<<<< HEAD
 - {name: Gondolaa, 
   folder: 'work', 
   file: 'work/gondolaa.html',
@@ -118,6 +119,8 @@ work:
   file: 'work/erc.html',
   info: 'I like that'}
 =======
+=======
+>>>>>>> work-exp-dev
 - {name: IBM Research, 
   folder: 'work-exp', 
   file: 'work-exp/ibm',
@@ -148,6 +151,9 @@ work:
   file: 'work-exp/erc',
   info: '',
   logo: 'erc-logo.png'}
+<<<<<<< HEAD
+>>>>>>> work-exp-dev
+=======
 >>>>>>> work-exp-dev
 
 #-------------------------------

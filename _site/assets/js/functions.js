@@ -5,6 +5,10 @@ $(function() {
 	clientStuff();
 	switchWork();
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> work-exp-dev
 =======
 
 >>>>>>> work-exp-dev
@@ -178,6 +182,8 @@ function switchWork() {
   });
 
 }
+
+
 
 
 

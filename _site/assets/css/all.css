@@ -970,6 +970,7 @@ footer {
     margin-left: 60px; } }
 .section-work-exp {
 <<<<<<< HEAD
+<<<<<<< HEAD
   position: relative; }
 
 .work-content {
@@ -990,6 +991,8 @@ footer {
     padding-left: 40px; }
     .work-content .work-belt .work-unit {
 =======
+=======
+>>>>>>> work-exp-dev
   position: relative;
   overflow-x: hidden; }
 
@@ -1032,6 +1035,9 @@ footer {
       max-width: 100%;
       margin-bottom: 20px; }
     .work-exp-belt .work-exp-content .work-exp-unit {
+<<<<<<< HEAD
+>>>>>>> work-exp-dev
+=======
 >>>>>>> work-exp-dev
       max-width: 750px;
       float: left;
@@ -1039,7 +1045,11 @@ footer {
       display: none;
       padding-top: 20%; }
 <<<<<<< HEAD
+<<<<<<< HEAD
       .work-content .work-belt .work-unit.active-work {
+=======
+      .work-exp-belt .work-exp-content .work-exp-unit.active-work-exp {
+>>>>>>> work-exp-dev
 =======
       .work-exp-belt .work-exp-content .work-exp-unit.active-work-exp {
 >>>>>>> work-exp-dev
@@ -1051,7 +1061,11 @@ footer {
         display: -ms-flexbox;
         display: flex; }
 <<<<<<< HEAD
+<<<<<<< HEAD
       .work-content .work-belt .work-unit .work-unit-content {
+=======
+      .work-exp-belt .work-exp-content .work-exp-unit .work-exp-unit-content {
+>>>>>>> work-exp-dev
 =======
       .work-exp-belt .work-exp-content .work-exp-unit .work-exp-unit-content {
 >>>>>>> work-exp-dev
@@ -1060,7 +1074,11 @@ footer {
         font-weight: 300; }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 .work-controls {
+=======
+.work-exp-controls {
+>>>>>>> work-exp-dev
 =======
 .work-exp-controls {
 >>>>>>> work-exp-dev
@@ -1071,7 +1089,11 @@ footer {
   left: 0px;
   z-index: 2; }
 <<<<<<< HEAD
+<<<<<<< HEAD
   .work-controls > div {
+=======
+  .work-exp-controls > div {
+>>>>>>> work-exp-dev
 =======
   .work-exp-controls > div {
 >>>>>>> work-exp-dev
@@ -1079,6 +1101,7 @@ footer {
     width: 40px;
     margin-top: -20px;
     cursor: pointer; }
+<<<<<<< HEAD
 <<<<<<< HEAD
     .work-controls > div path {
       fill: #c99065; }
@@ -1088,6 +1111,8 @@ footer {
     right: 10px; }
   .work-controls .work-control-prev {
 =======
+=======
+>>>>>>> work-exp-dev
     .work-exp-controls > div path {
       fill: #c99065; }
   .work-exp-controls .work-exp-control-next {
@@ -1095,13 +1120,20 @@ footer {
     top: 50%;
     right: 10px; }
   .work-exp-controls .work-exp-control-prev {
+<<<<<<< HEAD
+>>>>>>> work-exp-dev
+=======
 >>>>>>> work-exp-dev
     position: absolute;
     top: 50%;
     left: 10px; }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 .work-logos {
+=======
+.work-exp-logos {
+>>>>>>> work-exp-dev
 =======
 .work-exp-logos {
 >>>>>>> work-exp-dev
@@ -1134,7 +1166,11 @@ footer {
   justify-content: space-around;
   -ms-flex-pack: center; }
 <<<<<<< HEAD
+<<<<<<< HEAD
   .work-logos .client-logo {
+=======
+  .work-exp-logos .client-logo {
+>>>>>>> work-exp-dev
 =======
   .work-exp-logos .client-logo {
 >>>>>>> work-exp-dev
@@ -1144,7 +1180,11 @@ footer {
     border-bottom: 4px solid transparent;
     opacity: 0.5; }
 <<<<<<< HEAD
+<<<<<<< HEAD
     .work-logos .client-logo.active-client {
+=======
+    .work-exp-logos .client-logo.active-client {
+>>>>>>> work-exp-dev
 =======
     .work-exp-logos .client-logo.active-client {
 >>>>>>> work-exp-dev
