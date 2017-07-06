@@ -99,7 +99,7 @@ free, uncaptured, undocumented, \\
 forgotten. Ink on paper, blue \\
 ink, blue trains, and green.
 
-Passing, pasing, gone. The thoughts \\
+Passing, passing, gone. The thoughts \\
 remain, etched in ink, captured. \\
 The mind racing, thoughts, that want, \\
 to be, set free, but we don't let \\
@@ -116,7 +116,7 @@ the next notebook, and then, \\
 free again, to roam, to race, \\
 to wander, to discover. The man \\
 next to me, does not write in \\
-a notebook, bur rather, he reads, \\
+a notebook, but rather, he reads, \\
 a newspaper, absorbing the \\
 thoughts of others, that were \\
 captured, in a moment, now \\
@@ -129,7 +129,7 @@ time they were captured, not \\
 letting them become your own, \\
 but rather, letting them help you, \\
 and your thoughts, to develop,\\
-to run faster, more free. 
+to run faster, to be more free. 
 
 I'm on the train now. I'm moving \\
 with my thoughts, in sync, to the \\
@@ -150,7 +150,7 @@ Surely, that's enough. To wander, \\
 in two dimensions, infinitely, \\
 but not quite. Infinitely, \\
 we circle, eventually, we \\
-are back, where we started, \\
+are back where we started, \\
 where we have seen once \\
 before, maybe more. But \\
 vertically, we are, unlimited!
@@ -174,7 +174,7 @@ someone else.
 
 **Heights**
 
-Defined, by sea level, \\
+Defined by sea level, \\
 the moving, roaring alive \\
 sea, that defines, the \\
 heights, that we are. \\
@@ -213,10 +213,10 @@ to live, to flourish. Our lives, \\
 fed by life, can then feed, \\
 the air, the land, the oceans, \\
 all that we know, giving. No longer \\
-taking. The oceans, settle, satisfied, \\
+taking. The oceans settle, satisfied, \\
 eating life, and not death, as \\
 before. The new heights, are now reached \\
-by us, not by the oceans.
+by us, fed by life.
 
 **Pushing** 
 
@@ -253,7 +253,7 @@ see the light.
 Your family, your friends, the people \\
 in the crowd, who are, content, or disabled? \\
 Don't forget them, those that enabled you, \\
-they're happy, are you? 
+they're happy, and happy for you, are you? 
 
 
 
