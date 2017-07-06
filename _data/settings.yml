@@ -43,10 +43,10 @@ welcome: >
 
 blurb: >
   
-  I'm 23 and I have recently graduated with a Masters degree in Energy Systems Engineering from University 
+  I'm 23 years old and I have recently graduated with a Masters degree in Energy Systems Engineering from University 
   College Dublin, Ireland. I also have a Bachelors degree in Electrical & Electronic Engineering.
-  I made this website because I was repeatedly frustrated by the lack of customizability options that LinkedIn
-  offers. On this website you will find details of the things that I am good at, my achievements, my work 
+  I made this website in order to display my experiences in a personalised way and in order to learn
+  some new software skills. On this website you will find details of the things that I am good at, my achievements, my work 
   experience and a few comments from some people I have worked with in the past.
 
 
@@ -54,7 +54,7 @@ blurb: >
 
 skills:
 - {name: 'Energy systems, power systems', value: '7'}
-- {name: Electrical transport, value: '7'}
+- {name: 'Connected, electrical transport systems', value: '8'}
 - {name: 'Coding, software', value: '8'}
 - {name: 'Statistics, data science, machine learning', value: '6'}
 - {name: Project and team leadership, value: '9'}
@@ -71,12 +71,12 @@ endblurb: >
   The logical thinker in me appreciates the ridiculousness of using a grading
   system like above to describe such general terms (what could I possibly mean that I am '7/10' at maths?).
   The truth is that I am interested in a wide variety of topics and I think
-  I could give almost anything a go. I can provide one universal truth though which is that I love a challenge and I thrive on 
+  I could try almost anything. I can provide one universal truth though which is that I love a challenge and I thrive on 
   responsibility. 
 
 
-  The site is constantly evolving (and never finished) so check back regularly for updates. I built the site from scratch (with some 
-  guidance from @DevTips on YouTube) because I wanted a way to further improve my web development skills (HTML, Sass, JS). Please 
+  The site is constantly evolving (and therefore is never finished) so check back regularly for updates. I coded the site from scratch (with some 
+  guidance from @DevTips on YouTube) using HTML, Sass, JS and some design skills. Please 
   get in touch if there is anything else that you would like to know about me.
 
 
