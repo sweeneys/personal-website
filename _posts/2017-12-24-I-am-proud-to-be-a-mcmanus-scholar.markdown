@@ -14,7 +14,7 @@ To give some background, receiving the McManus scholarship is the thing that I p
 
 The scholarship primarily meant that all worries I had about going to university (...financial) were solved. Below I am listing some of the things that I have achieved that I directly associate with the financial freedom that the McManus scholarship awarded to me:
 
-- Studying abroad at the university of Melbourne in Australia from July 2014 - January 2015 (one of the greatest learning experiences of my life to date)
+- Studying abroad at the University of Melbourne in Australia from July 2014 - January 2015 (one of the greatest learning experiences of my life to date)
 
 - Completing one professional summer internship every summer from 2012-2016
 
