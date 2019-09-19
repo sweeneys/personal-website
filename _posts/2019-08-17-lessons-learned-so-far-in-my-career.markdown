@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lessons learned so far in my career"
+title:  "20 lessons learned so far in my career"
 categories: jekyll update
 date:   2019-08-17
 comments: true
@@ -13,7 +13,7 @@ I strongly identify as a Millennial, I am very lucky to already have experience 
 
 Below, I aim to give some of the lessons I’ve learned from working in these companies in the energy and tech sectors over the last several years.
 
-### Lessons learned
+### 20 lessons learned
 
 #### 1.	You won’t get very far if you can’t work effectively with people from different backgrounds
 
@@ -47,7 +47,7 @@ Why should underperformers get to buy more avocado-toast than us when they’ve 
 
 As Product Manager, I generally think about my role as being somewhere stuck between the software, hardware, marketing, BD, CX, operations, finance and sales teams trying to get people to agree on the best way forward. I am thinking that my next career move will be to take up a lead negotiator position in the UK government Brexit negotiations (some time in 2024). 
 
-#### 9.	The early hires that are made in a small company will dictate whether departments under- or over- performs for the next several years
+#### 9.	The early hires that are made in a small company will dictate whether departments under- or over- perform for the next several years
 
 In a small company, these people will likely perform several job functions and be responsible for a lot of important work, choose well!
 
@@ -67,7 +67,7 @@ I am not a Software Engineer, but I’m very fortunate to be able to have suffic
 
 The world is not static (how boring would it be if it was???). We should plan based on the information that we have available,but collectively understand that if something changes that priorities will change.
 
-#### 14.	Ensure that you understand risks
+#### 14.	Ensure that you understand risks insofar as possible
 
 Risk is only bad if you don’t understand what the risks are. Codify risk and then work to reduce it.  
 
@@ -79,7 +79,7 @@ In the beginning it makes a lot of sense to throw mud at the wall and see what s
 
 Power-distance, internal communication, seating plans, team structures, delivery mechanisms.
 
-#### 17.	Go hard or go home! Finding balance will keep you healthy in the long run
+#### 17.	Finding balance will keep you healthy in the long run
 
 I am guilty of being on the wrong side of balanced in terms of burning the candle at both ends of work and having fun, but it catches up on physical and mental health.  
 
