@@ -43,11 +43,11 @@ welcome: >
 
 blurb: >
 
-  I'm 24 years old and I have recently graduated with a Masters degree in Energy Systems Engineering from University
-  College Dublin, Ireland. I also have a Bachelors degree in Electrical & Electronic Engineering.
-  I made this website in order to display my experiences in a personalised way and in order to learn
-  some new software skills. On this website you will find details of the things that I am good at, my achievements, my work
-  experience and a few comments from some people I have worked with in the past.
+  I'm 26 years old, I hold a Master's degree in Energy Systems Engineering and a BSc in  
+  Electrical & Electronic Engineering. I currently work as a Product Manager with Moixa Technology. 
+  I made this website from a template in order to display my experiences in a personalised way and to learn
+  some new software skills. On this website you will find details of the things that I am good at, my achievements, 
+  my work  experience and a few comments from some people I have worked with in the past.
 
 
   To get to know me a bit better, here is a list of things that I can do/I am interested in:
@@ -55,16 +55,16 @@ blurb: >
 skills:
 - {name: 'Energy systems, power systems', value: '7'}
 - {name: 'Connected, electrical transport systems', value: '8'}
-- {name: 'Coding, software', value: '8'}
-- {name: 'Statistics, data science, machine learning', value: '6'}
-- {name: Project and team leadership, value: '9'}
-- {name: Goal setting and achievement, value: '9'}
-- {name: Attention to detail, value: '8'}
-- {name: Communicate effectively, value: '8'}
-- {name: Maths, value: '7'}
+- {name: 'Coding, software', value: '7'}
+- {name: 'Statistics, data science, machine learning', value: '7'}
+- {name: 'Project and team leadership', value: '9'}
+- {name: 'Goal setting and achievement', value: '9'}
+- {name: 'Attention to detail', value: '8'}
+- {name: 'Communication skills', value: '8'}
+- {name: 'Mathematics', value: '7'}
 - {name: 'Smart cities, smart grids, economics', value: '7'}
 - {name: 'Entrepreneurship, start-ups', value: '6'}
-- {name: Control theory and optimisation, value: '8'}
+- {name: 'Control theory and optimisation techniques', value: '8'}
 
 
 endblurb: >
